@@ -4,6 +4,6 @@ Welcome to the ATM Analytics Dashboard project – your go-to solution for in-de
 
 The ATM Analytics Dashboard is a Power BI project designed to provide a comprehensive overview of your ATM network's performance. From total transactions to geospatial mapping, this dashboard offers insights that matter.
 
-[atl text](./Home.PNG)
+[Home](./Home.PNG)
 [atl text](Overview.PNG)
 [atl text](./Demography.PNG)
